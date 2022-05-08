@@ -11,3 +11,15 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+## Used Packages
+Below are used packages on for the application:
+### React Icons
+For all icons
+### React Splide
+A lightweight, flexible & accessible slider/ carousel.Provides impresive transition.
+Find out more here:[React Splide](https://splidejs.com/guides/getting-started/)
+### React router dom
+For navigations
+### Framer motion
+Motion library for react. [Framer Motion](https://www.framer.com/motion/)
+
